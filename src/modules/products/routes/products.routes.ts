@@ -1,4 +1,4 @@
-import ProductsController from '../controller/ProductsController';
+import ProductsController from '../controllers/ProductsController';
 import { Router } from 'express';
 import { celebrate, Joi, Segments } from 'celebrate';
 
